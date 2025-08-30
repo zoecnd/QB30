@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Message</title>
+  <style>
+    html,body{height:100%;margin:0}
+    body{display:flex;justify-content:center;align-items:center;
+         font:24px/1.4 system-ui,-apple-system,Arial,sans-serif;
+         text-align:center;padding:2rem}
+  </style>
+  <body>
+    Joyeux anniversaire, Quentin! 
+    Pour tes 30 ans, nous nous sommees réunis pour te souhaiter un merveilleux anniversaire. 
+    
+    On voulait marquer le coup avec un cadeau à ton image : plein d’énergie, de passion et tourné vers l’aventure. 
+    
+    Cette cagnotte est notre façon de t’accompagner dans tes rêves sportifs, qu’ils soient faits de sommets, de kilomètres ou de défis fous encore à inventer. 
+    
+    Merci de nous inspirer par ta détermination et ton enthousiasme.
+    
+    On a hâte de suivre tes prochaines aventures et de continuer à t’encourager, toujours plus fort ! 
+    
+    On te couvre de bisous,
+    Your people
+    
+  </body>
+</html>
